@@ -1,5 +1,6 @@
 # Warbird
 Motorcycle run by on-board microcontroller
+![](https://drive.google.com/open?id=0B-a0mTqx0X3eNWJXVDQyTjJjVElQX1BRRmZOTDlPYVNNYjln)
 
 ## Origin
 Summer 2018, I built a custom Cafe Racer style motorcycle. 
@@ -30,3 +31,4 @@ The most interesting modification made was the removal of the key system, in exc
 ## Artistic Inspiration
 The Cafe Racer style is marked by a visibly stripped bike frame, a perfectly horizontal line following the tank and seat bottoms, low clip-on handlebars, and a cowled seat. These builds are often done with 80s era cruisers such as the BMW R100, Honda CX500, or the Yamaha Virago XV750. I chose the Virago for its monoshock swingarm in the rear, creating a visibly open space under the seat and concentrating all engine bulk low and to the front.
 The paint job was designed and done by me, color matched to the WW2 Army training biplane, #117, owned and piloted by my father.
+![](https://drive.google.com/file/d/0B-a0mTqx0X3eVHZqM1AtOUQ5MUVpSkhVSkZyZjBKaGNQR09z/view?usp=sharing)
